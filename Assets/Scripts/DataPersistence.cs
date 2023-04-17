@@ -6,7 +6,6 @@ public class DataPersistence : MonoBehaviour
 {
     public static DataPersistence sharedInstance; // Variable estática del mismo tipo que la clase
 
-
     public string username;
 
     private void Awake()
